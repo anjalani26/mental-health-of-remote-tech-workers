@@ -1,0 +1,137 @@
+Mental Health Status: Positive and Negative Correlations
+================================================================================
+
+Mental_Health_Status_Poor
+-------------------------
+Positive correlations:
+  Sleep_Hours_Per_Day : +0.232
+  Gender_Female : +0.217
+  Exercise_Frequency_Daily : +0.153
+  Job_Role_QA Engineer : +0.139
+  Internet_Issues_Frequency_Often : +0.131
+  Country_UK : +0.125
+  Work_Mode_Remote : +0.082
+  Job_Role_Developer : +0.067
+  Internet_Issues_Frequency_Sometimes : +0.067
+  Country_Brazil : +0.051
+  Job_Role_DevOps Engineer : +0.050
+  Hours_Worked_Per_Week : +0.043
+  Age : +0.034
+  Country_Germany : +0.032
+  Willing_To_Return_Onsite : +0.031
+  Country_Canada : +0.009
+  Productivity_Score : +0.008
+  Exercise_Frequency_2-3x/Week : +0.002
+
+Negative correlations:
+  Internet_Issues_Frequency_Never : -0.189
+  Job_Role_UI/UX Designer : -0.154
+  Experience_Years : -0.149
+  Gender_Prefer not to say : -0.135
+  Remote_Setup_Satisfaction : -0.131
+  Country_Australia : -0.104
+  Country_India : -0.104
+  Burnout_Score : -0.100
+  Job_Role_Data Scientist : -0.086
+  Exercise_Frequency_Rarely : -0.084
+  Job_Role_Product Manager : -0.066
+  Exercise_Frequency_Never : -0.065
+  Work_Mode_Onsite : -0.065
+  Work_Life_Balance_Rating : -0.045
+  Country_USA : -0.038
+  Gender_Male : -0.028
+  Has_Access_To_Therapist : -0.027
+  Work_Mode_Hybrid : -0.026
+  Team_Communication_Effectiveness : -0.026
+  Gender_Non-binary : -0.011
+
+
+Mental_Health_Status_Moderate
+-----------------------------
+Positive correlations:
+  Internet_Issues_Frequency_Never : +0.203
+  Job_Role_UI/UX Designer : +0.169
+  Exercise_Frequency_Never : +0.147
+  Gender_Prefer not to say : +0.139
+  Job_Role_QA Engineer : +0.124
+  Country_USA : +0.102
+  Has_Access_To_Therapist : +0.092
+  Exercise_Frequency_Rarely : +0.091
+  Productivity_Score : +0.082
+  Job_Role_Data Scientist : +0.082
+  Burnout_Score : +0.067
+  Country_Brazil : +0.052
+  Country_Canada : +0.042
+  Country_Germany : +0.040
+  Experience_Years : +0.026
+  Work_Mode_Hybrid : +0.020
+  Willing_To_Return_Onsite : +0.020
+  Team_Communication_Effectiveness : +0.018
+  Work_Mode_Onsite : +0.006
+
+Negative correlations:
+  Job_Role_DevOps Engineer : -0.217
+  Internet_Issues_Frequency_Often : -0.182
+  Country_UK : -0.152
+  Sleep_Hours_Per_Day : -0.146
+  Gender_Female : -0.138
+  Exercise_Frequency_2-3x/Week : -0.121
+  Exercise_Frequency_Daily : -0.117
+  Job_Role_Developer : -0.100
+  Country_India : -0.078
+  Hours_Worked_Per_Week : -0.054
+  Internet_Issues_Frequency_Sometimes : -0.035
+  Job_Role_Product Manager : -0.030
+  Remote_Setup_Satisfaction : -0.028
+  Work_Mode_Remote : -0.024
+  Gender_Male : -0.018
+  Work_Life_Balance_Rating : -0.018
+  Country_Australia : -0.012
+  Gender_Non-binary : -0.007
+  Age : -0.004
+
+
+Mental_Health_Status_Good
+-------------------------
+Positive correlations:
+  Country_India : +0.188
+  Job_Role_DevOps Engineer : +0.179
+  Remote_Setup_Satisfaction : +0.163
+  Exercise_Frequency_2-3x/Week : +0.126
+  Experience_Years : +0.124
+  Country_Australia : +0.119
+  Job_Role_Product Manager : +0.099
+  Work_Life_Balance_Rating : +0.066
+  Work_Mode_Onsite : +0.060
+  Internet_Issues_Frequency_Often : +0.060
+  Gender_Male : +0.048
+  Job_Role_Developer : +0.038
+  Country_UK : +0.034
+  Burnout_Score : +0.031
+  Gender_Non-binary : +0.019
+  Hours_Worked_Per_Week : +0.014
+  Team_Communication_Effectiveness : +0.008
+  Work_Mode_Hybrid : +0.005
+
+Negative correlations:
+  Job_Role_QA Engineer : -0.273
+  Country_Brazil : -0.107
+  Productivity_Score : -0.095
+  Exercise_Frequency_Never : -0.090
+  Sleep_Hours_Per_Day : -0.082
+  Country_Germany : -0.075
+  Gender_Female : -0.075
+  Has_Access_To_Therapist : -0.070
+  Country_USA : -0.070
+  Work_Mode_Remote : -0.058
+  Willing_To_Return_Onsite : -0.053
+  Country_Canada : -0.053
+  Exercise_Frequency_Daily : -0.032
+  Age : -0.031
+  Internet_Issues_Frequency_Sometimes : -0.031
+  Internet_Issues_Frequency_Never : -0.023
+  Job_Role_UI/UX Designer : -0.023
+  Gender_Prefer not to say : -0.010
+  Exercise_Frequency_Rarely : -0.010
+
+
